@@ -90,7 +90,8 @@ python main.py
   - `time` - For delays between operations
   
  
-  7. 🚧 **Roadmap**
+ 
+ 7. 🚧 **Roadmap**
 - [ ] Add support for YouTube links
 - [ ] Implement automatic watermarking
 - [ ] Add database persistence for queue

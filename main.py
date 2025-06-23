@@ -6,11 +6,11 @@ import os
 import time
 
 # ===== CONFIGURATION ===== #
-API_ID = 29512733
-API_HASH = "5d547b90927a40e473a337c9015fd65e"
-BOT_TOKEN = "7555014168:AAE_1lAwXJFKJdw7xJKkeRXkBGbM1GWfWxU"
-ADMIN_ID = 8139996030
-TARGET_GROUP_ID = -1002602630495
+API_ID = xxxxxxxx
+API_HASH = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+BOT_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+ADMIN_ID = xxxxxxxxxxxxx
+TARGET_GROUP_ID = xxxxxxxxxxx
 
 # ===== BOT SETUP ===== #
 bot = TelegramClient('message_cloner_bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN)

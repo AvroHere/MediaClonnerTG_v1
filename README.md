@@ -56,7 +56,7 @@ python main.py
 9. ℹ️ `/help` - Show all commands
 ```
 
-**Remember**
+ 📁 **Remember**
 
 🐍 Install Python 3.10+ if not already installed
 
@@ -88,6 +88,7 @@ python main.py
   - `re` - Regular expressions for link parsing
   - `os` - File system operations
   - `time` - For delays between operations
+  
  
   7. 🚧 **Roadmap**
 - [ ] Add support for YouTube links
@@ -97,12 +98,15 @@ python main.py
 - [ ] Support multiple target groups
 - [ ] Add media type filtering (only videos/images)
 
+      
+
 8. ❓ **FAQ**
 **Q: Why are some messages not being cloned?**  
 A: The bot only clones media messages (images, videos, GIFs). Text messages are automatically skipped.
 
 **Q: How to change the target group?**  
 A: Modify the `TARGET_GROUP_ID` variable in the script with your new group's ID (including the -100 prefix).
+
 
 9. 📄 **License**
 MIT License
